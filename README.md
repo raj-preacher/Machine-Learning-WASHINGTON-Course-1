@@ -1,8 +1,8 @@
 # Machine-Learning-WASHINGTON-Course-1
-COURSERA -  Machine Learning Foundations: A Case Study Approach (by University of Washington)
+## COURSERA -  Machine Learning Foundations: A Case Study Approach (by University of Washington)
 
-Machine Learning Foundations: A Case Study Approach
-University of Washington
+## Machine Learning Foundations: A Case Study Approach
+## University of Washington
 About this Course
 Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  Do you want to be able to converse with specialists about anything from regression and classification to deep learning and recommender systems?
 
@@ -10,7 +10,7 @@ In this course, you will get hands-on experience with machine learning from a se
 
 This first course treats the machine learning method as a black box.  Using this abstraction, you will focus on understanding tasks of interest, matching these tasks to machine learning tools, and assessing the quality of the output. In subsequent courses, you will delve into the components of this black box by examining models and algorithms.  Together, these pieces form the machine learning pipeline, which you will use in developing intelligent applications.
 
-Learning Outcomes:  By the end of this course, you will be able to:
+### Learning Outcomes:  By the end of this course, you will be able to:
    -Identify potential applications of machine learning in practice.  
    -Describe the core differences in analyses enabled by regression, classification, and clustering.
    -Select the appropriate machine learning task for a potential application.  
@@ -21,12 +21,12 @@ Learning Outcomes:  By the end of this course, you will be able to:
    -Build an end-to-end application that uses machine learning at its core.  
    -Implement these techniques in Python.
    
-   
-   
-                                                                   WEEK-2
+   # ASSIGNMENTS
+   # WEEK-2
+                                                                   
                 
-Predicting house prices assignment
-Predicting house prices
+## Predicting house prices assignment
+## Predicting house prices
 In this module, we focused on using regression to predict a continuous value (house prices) from features of the house (square feet of living space, number of bedrooms,...). We also built an iPython notebook for predicting house prices, using data from King County, USA, the region where the city of Seattle is located.
 
 In this assignment, we are going to build a more accurate regression model for predicting house prices by including more features of the house. In the process, we will also become more familiar with how the Python language can be used for data exploration, data transformations and machine learning. These techniques will be key to building intelligent applications.
@@ -88,10 +88,10 @@ Show offline instructions
 
 
 
-                                                        WEEK-3
+# Week-3                                                     
                          
-  Analyzing product sentiment assignment
-Analyzing product sentiment
+ ## Analyzing product sentiment assignment
+## Analyzing product sentiment
 In this module, we focused on classifiers, applying them to analyzing product sentiment, and understanding the types of errors a classifier makes. We also built an exciting iPython notebook for analyzing the sentiment of real product reviews.
 
 In this assignment, we are going to explore this application further, training a sentiment analysis model using a set of key polarizing words, verify the weights learned to each of these words, and compare the results of this simpler classifier with those of the one using all of the words. These techniques will be a core component in your capstone project.
@@ -199,10 +199,10 @@ Save this result to answer the quiz at the end.
 Why is the predicted_sentiment for the most positive review found using the model with all word counts (sentiment_model) much more positive than the one using only the selected_words (selected_words_model)? Hint: examine the text of this review, the extracted word counts for all words, and the word counts for each of the selected_words, and you will see what each model used to make its prediction. Save this result to answer the quiz at the end.                       
 
 
-                                                         WEEK-4
+ #  WEEK-4                                                       
                                                          
- Retrieving Wikipedia articles assignment
-Retrieving Wikipedia articles
+## Retrieving Wikipedia articles assignment
+## Retrieving Wikipedia articles
 In this module, we focused on using nearest neighbors and clustering to retrieve documents that interest users, by analyzing their text. We explored two document representations: word counts and TF-IDF. We also built an iPython notebook for retrieving articles from Wikipedia about famous people.
 
 In this assignment, we are going to dig deeper into this application, explore the retrieval results for various famous people, and familiarize ourselves with the code needed to build a retrieval system. These techniques will be key to building the intelligent application in your capstone project.
@@ -244,12 +244,12 @@ What’s the most similar article, other than itself, to the one on ‘Elton Joh
 Save these results to answer the quiz at the end.                                                        
             , 
             
+  #  WEEK-5          
             
-            
-                                                          WEEK-5
+                                                         
                                                           
-   Recommending songs assignment
-Recommending songs
+##    Recommending songs assignment
+## Recommending songs
 In this module, we focused on building recommender systems to find products, music and movies that interest users. We also built an exciting iPython notebook for recommending songs, which compared the simple popularity-based recommendation with a personalized model, and showed the significant improvement provided by personalization.
 
 In this assignment, we are going to explore the song data and the recommendations made by our model. In the process, you are going to learn how to use one of the most important data manipulation primitives, groupby. These techniques will be important to building the intelligent application in your capstone project.
@@ -321,12 +321,10 @@ And, since we want to use the song titles as the key to the aggregator instead o
 By sorting the results, you will find out the most recommended song to the first 10,000 users in the test data! Save these results to answer the quiz at the end.
 
 
-
-
-                                                                       WEEK-6
+   # WEEK-6                                                                    
                                                                        
-    Deep features for image classification & retrieval assignment
-Deep features for image classification & retrieval
+##  Deep features for image classification & retrieval assignment
+## Deep features for image classification & retrieval
 In this module, we focused on using deep learning to create non-linear features to improve the performance of machine learning. We also saw how transfer learning techniques can be applied to use deep features learned with one dataset to get great performance on a different dataset. We also built an iPython notebooks for both image retrieval and image classification tasks on real datasets.
 
 In this assignment, we are going to build new image retrieval models and explore their results on different parts of our image dataset. These techniques will be used at the core of the intelligent application in your capstone project.
